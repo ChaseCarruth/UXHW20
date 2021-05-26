@@ -1,5 +1,5 @@
 .jumbotron {
-  background-color: rgb(172, 132, 77);
+  background-color: rgb(170, 131, 77);
   margin-bottom: 0%;
 }
 
@@ -12,9 +12,49 @@
 }
 .overview {
   width: 900px;
-  background-color: chartreuse;
+  background-color: rgb(170, 131, 77);
   padding: 20px;
   border-radius: 10px;
   margin-left: 50px;
   margin-top: 50px;
+}
+
+.research {
+  width: 900px;
+  background-color: rgb(170, 131, 77);
+  padding: 20px;
+  border-radius: 10px;
+  margin-left: 50px;
+  margin-top: 50px;
+}
+
+.problemstatement {
+  width: 900px;
+  background-color: rgb(170, 131, 77);
+  padding: 20px;
+  border-radius: 10px;
+  margin-left: 50px;
+  margin-top: 50px;
+}
+.iteration {
+  width: 900px;
+  background-color: rgb(170, 131, 77);
+  padding: 20px;
+  border-radius: 10px;
+  margin-left: 50px;
+  margin-top: 50px;
+}
+
+.prototype {
+  width: 900px;
+  background-color: rgb(170, 131, 77);
+  padding: 20px;
+  border-radius: 10px;
+  margin-left: 50px;
+  margin-top: 50px;
+}
+
+img {
+  width: 200px;
+  float: left;
 }
