@@ -1,3 +1,20 @@
 .jumbotron {
+  background-color: rgb(172, 132, 77);
+  margin-bottom: 0%;
+}
+
+.nav {
+  background-color: rgb(0, 0, 0);
+  padding: 25px;
+}
+.nav-link {
+  color: rgb(255, 255, 255);
+}
+.overview {
   width: 900px;
+  background-color: chartreuse;
+  padding: 20px;
+  border-radius: 10px;
+  margin-left: 50px;
+  margin-top: 50px;
 }
